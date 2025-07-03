@@ -1,6 +1,6 @@
 ![Preview](./images/bg.webp)
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/500293365494054932?bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 
 ### Hi!👋 I'm Gaeuly🍙
@@ -20,8 +20,7 @@
 ## **💻 Experience**
 <a href="https://github.com/Gaeuly"><img align="right" width="120" src="./images/marin_sad.webp"></a>
 - Useless, lazy, unmotivated, and literally no survival skills in this society.
-- As a Hikikomori and NEET, I enjoy gaming, watching anime, reading manga, cosplaying, listening to music, and occasionally experimenting with tech stuff, especially gaming gear.
-- I have a passion for anime, and I love to cosplay as my favorite characters.
+- As a gaeuly, I enjoy gaming, watching anime, reading manga, cosplaying, listening to music, and occasionally experimenting with tech stuff, especially gaming gear.
 
 ## **📊 Github Stats**
 <!-- <div><a href="https://github.com/Gaeuly"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
