@@ -8,7 +8,7 @@
 *SUPER LAZY JUST NEED SLEEP*
 
 ## **☕ About me**
-<a href="https://github.com/Gaeuly"><img align="left" width="140" src="./images/marin_kya.webp"></a>
+<a href="https://github.com/Gaeuly"><img align="left" width="140" src="./images/raiden1.png"></a>
 - Name: **Gaeuly** 
 - Residing in: **Indonesian / Singapore**
 - Pronouns: **eul**
@@ -18,7 +18,7 @@
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/Gaeuly"><img align="right" width="120" src="./images/marin_sad.webp"></a>
+<a href="https://github.com/Gaeuly"><img align="right" width="120" src="./images/raiden2.png"></a>
 - Useless, lazy, unmotivated, and literally no survival skills in this society.
 - As a gaeuly, I enjoy gaming, watching anime, reading manga, cosplaying, listening to music, and occasionally experimenting with tech stuff, especially gaming gear.
 
@@ -46,10 +46,10 @@ Hehe~ another cutie has been caught.
 ``` -->
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/marin_smug.webp" /></a>
-**Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/raiden3.png" /></a>
+**Please Contact me on Discord for a quick response:** [gaeuly](https://discord.gg/n5AQRy3Ugq)
 
-**You can also email me here:** mizuneenee@gmail.com
+**You can also email me here:** 7dsgaeul@gmail.com
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/MiyagawaMizu)
