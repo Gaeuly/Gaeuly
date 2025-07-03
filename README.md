@@ -3,9 +3,9 @@
 <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/500293365494054932?bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 
-### Hi!👋 I'm Gaeuly🍙
+### Hi!👋 I'm Gaeuly
 
-*SUPER UNEMPLOYED OHIO FINAL BOSS*
+*SUPER LAZY JUST NEED SLEEP*
 
 ## **☕ About me**
 <a href="https://github.com/Gaeuly"><img align="left" width="140" src="./images/marin_kya.webp"></a>
