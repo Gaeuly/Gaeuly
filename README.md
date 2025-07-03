@@ -51,7 +51,7 @@ Hehe~ another cutie has been caught.
 
 **You can also email me here:** 7dsgaeul@gmail.com
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
+<a href="https://github.com/Gaeuly"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/Gaeuly)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/n5AQRy3Ugq)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/Gaeul)
