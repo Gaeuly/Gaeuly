@@ -3,28 +3,28 @@
 <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 
-### Hi!👋 I'm Mizu🍙
+### Hi!👋 I'm Gaeuly🍙
 
 *SUPER UNEMPLOYED OHIO FINAL BOSS*
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
-- Name: **Mizu, 小喵** 
-- Residing in: **Vietnam**
-- Pronouns: **Xiǎo Miāo**
-- Hoobies: **Cosplay, Playing Games**
+<a href="https://github.com/Gaeuly"><img align="left" width="140" src="./images/marin_kya.webp"></a>
+- Name: **Gaeuly** 
+- Residing in: **Indonesian / Singapore**
+- Pronouns: **eul**
+- Hoobies: **Sleep, Playing Games**
 - Work: **UNEMPLOYED**
-- Language: **Vietnamese, English**
+- Language: **Indonesian, English**
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/marin_sad.webp"></a>
+<a href="https://github.com/Gaeuly"><img align="right" width="120" src="./images/marin_sad.webp"></a>
 - Useless, lazy, unmotivated, and literally no survival skills in this society.
 - As a Hikikomori and NEET, I enjoy gaming, watching anime, reading manga, cosplaying, listening to music, and occasionally experimenting with tech stuff, especially gaming gear.
 - I have a passion for anime, and I love to cosplay as my favorite characters.
 
 ## **📊 Github Stats**
-<!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
+<!-- <div><a href="https://github.com/Gaeuly"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
