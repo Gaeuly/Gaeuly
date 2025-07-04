@@ -49,7 +49,7 @@ Hehe~ another cutie has been caught.
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/raiden3.png" /></a>
 **Please Contact me on Discord for a quick response:** [gaeuly](https://discord.gg/n5AQRy3Ugq)
 
-**You can also email me here:** 7dsgaeul@gmail.com
+**You can also email me here:** support@gaeul.bio
 
 <a href="https://github.com/Gaeuly"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/Gaeuly)
