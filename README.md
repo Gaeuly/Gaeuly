@@ -1,6 +1,6 @@
 ![Preview](https://github.com/Gaeuly/Gaeuly/blob/main/images/raiden.gif?raw=true)
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/500293365494054932?bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.gg/n5AQRy3Ugq"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/500293365494054932?bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 
 ### Hi!👋 I'm Gaeuly
