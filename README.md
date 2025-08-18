@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/gaeuly"><img src="https://api.daily.dev/devcards/v2/oEZkHYzOxvaytobku6q9Y.png?r=9g5&type=wide" width="652" alt="Gaeul's Dev Card"/></a>
+<a href="https://app.daily.dev/gaeuly"><img src="https://api.daily.dev/devcards/v2/oEZkHYzOxvaytobku6q9Y.png?type=wide&r=sqm" width="652" alt="Gaeul's Dev Card"/></a>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Gaeuly\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/Gaeuly)
 ![GitHub followers](https://img.shields.io/github/followers/Gaeuly?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Gaeuly?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gaeuly.repoName) <img src="https://komarev.com/ghpvc/?username=Gaeuly" alt="Gaeuly" />
 
