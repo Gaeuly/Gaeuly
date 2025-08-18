@@ -1,63 +1,37 @@
-![Preview](https://github.com/Gaeuly/Gaeuly/blob/main/images/raiden.gif?raw=true)
+<a href="https://app.daily.dev/gaeuly"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="652" alt="Gaeuly Dev Card"/></a>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Gaeuly\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/Gaeuly)
+![GitHub followers](https://img.shields.io/github/followers/Bre4d777?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Bre4d777?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bre4d777.repoName) <img src="https://komarev.com/ghpvc/?username=Bre4d777" alt="Bre4d77" />
 
-<a href="https://discord.gg/n5AQRy3Ugq"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/500293365494054932?bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+## About Me :
 
+- 🏢 I am currently working as a **Dumb JEE Aspirant** 
+- My main language is Hindi but I also speak JavaScript sometimes
+- Database: well I can do PostgreSQL, MongoDB, SQLite, ScyllaDB but I prefer SQLite
+- Preference: pretty eyes thick thighs 
 
-### Hi!👋 I'm Gaeuly
+## Connect with me ☕ :
 
-*SUPER LAZY JUST NEED SLEEP*
+[![Discord Presence](https://lanyard.cnrad.dev/api/931059762173464597)](https://discord.gg/EpX9Rp4c)
 
-## **☕ About me**
-<a href="https://github.com/Gaeuly"><img align="left" width="140" src="./images/raiden1.png"></a>
-- Name: **Gaeuly** 
-- Residing in: **Indonesian / Singapore**
-- Pronouns: **eul**
-- Hoobies: **Sleep, Playing Games**
-- Work: **UNEMPLOYED**
-- Language: **Indonesian, English**
-<br><br>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
-## **💻 Experience**
-<a href="https://github.com/Gaeuly"><img align="right" width="120" src="./images/raiden2.png"></a>
-- Useless, lazy, unmotivated, and literally no survival skills in this society.
-- As a gaeuly, I enjoy gaming, watching anime, reading manga, cosplaying, listening to music, and occasionally experimenting with tech stuff, especially gaming gear.
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## **📊 Github Stats**
-<!-- <div><a href="https://github.com/Gaeuly"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gaeuly&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeuly&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!-- ## **🎧 Music**
-<p align="center">
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="35%"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
-</p> -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bre4d777&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bre4d777&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bre4d777&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ## **🧋Cutie Counter** -->
-<!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
-</p> -->
-<!-- <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://count.getloli.com/@miyagawamizu?name=miyagawamizu&theme=rule34&padding=10&offset=0&scale=1&pixelated=1&darkmode=0"></a>
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro.png"></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bre4d777&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
-```yaml
-People who visit my profile :3.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-Hehe~ another cutie has been caught.
-``` -->
-<!-- <br><br><br><br> -->
-## **📫 Contact**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/raiden3.png" /></a>
-**Please Contact me on Discord for a quick response:** [gaeuly](https://discord.gg/n5AQRy3Ugq)
+## Activity Graph 📊 :
+[![Bread's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bre4d777&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**You can also email me here:** support@gaeul.bio
-
-<a href="https://github.com/Gaeuly"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
-[![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/Gaeuly)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/n5AQRy3Ugq)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/Gaeul)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:7dsgaeul@gmail.com)
-<!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/gaeulyyy) -->
-<!-- [![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/miyagawamizu) -->
-<!-- [![Gaeuly](https://mizu.is-a.dev/public/miyagawamizu.png)](https://gaeuly.my.id/) -->
+---
