@@ -4,12 +4,7 @@
 
 ## About Me :
 
-Name: Gaeuly
-Residing in: Indonesian / Singapore
-Pronouns: eul
-Hoobies: Sleep
-Work: UNEMPLOYED
-Language: Indonesian, English
+Hey there! I’m a Discord bot developer and Minecraft server builder as my main focus. I love crafting automated systems, building unique gameplay experiences, and optimizing backend logic.
 
 ## Connect with me ☕ :
 
@@ -28,12 +23,12 @@ Language: Indonesian, English
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeuly&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bre4d777&theme=merko&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Gaeuly&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## Activity Graph 📊 :
-[![Bread's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bre4d777&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bread's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaeuly&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
