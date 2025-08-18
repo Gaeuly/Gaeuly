@@ -4,14 +4,16 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Dumb JEE Aspirant** 
-- My main language is Hindi but I also speak JavaScript sometimes
-- Database: well I can do PostgreSQL, MongoDB, SQLite, ScyllaDB but I prefer SQLite
-- Preference: pretty eyes thick thighs 
+Name: Gaeuly
+Residing in: Indonesian / Singapore
+Pronouns: eul
+Hoobies: Sleep
+Work: UNEMPLOYED
+Language: Indonesian, English
 
 ## Connect with me ☕ :
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/931059762173464597)](https://discord.gg/EpX9Rp4c)
+[![Discord Presence](https://lanyard.cnrad.dev/api/500293365494054932)](https://discord.gg/EpX9Rp4c)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
