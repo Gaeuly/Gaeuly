@@ -29,7 +29,7 @@ Hey there! I’m a Discord bot developer and Minecraft server builder as my main
 ![](https://github-profile-trophy.vercel.app/?username=Gaeuly&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&background=00000000&font=FFFFFF&quoteColor=9E4DF1)
 
 ## Activity Graph 📊 :
 [![Bread's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaeuly&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
