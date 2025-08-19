@@ -18,10 +18,13 @@ Hey there! I’m a Discord bot developer and Minecraft server builder as my main
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gaeuly&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=9E4DF1&text_color=FFFFFF&icon_color=9E4DF1&bg_color=00000000)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gaeuly&theme=transparent&hide_border=true&title_color=9E4DF1&text_color=FFFFFF&stroke=9E4DF1&background=00000000)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeuly&layout=compact&theme=transparent&hide_border=true&title_color=9E4DF1&text_color=FFFFFF&icon_color=9E4DF1&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api?username=Gaeuly&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=9E4DF1&text_color=FFFFFF&icon_color=9E4DF1&bg_color=00000000)
 
+<!-- GitHub Streak -->
+![](https://nirzak-streak-stats.vercel.app/?user=Gaeuly&theme=transparent&hide_border=true&ring=9E4DF1&fire=9E4DF1&currStreakLabel=9E4DF1&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=00000000)
+
+<!-- Top Langs -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeuly&layout=compact&theme=transparent&hide_border=true&title_color=9E4DF1&text_color=FFFFFF&bg_color=00000000)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gaeuly&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
