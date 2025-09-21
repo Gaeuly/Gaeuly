@@ -1,36 +1,42 @@
+# Nama workflow yang akan muncul di tab "Actions"
 name: Snake animation
 
 on:
-  # run automatically every 12 hours
+  # Berjalan setiap 6 jam (bisa kamu ubah cron-nya jika mau)
   schedule:
     - cron: "0 */6 * * *" 
   
-  # allows to manually run the job at any time
+  # Memungkinkan untuk menjalankan job ini secara manual dari tab Actions
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # Berjalan setiap kali ada push ke branch utama
   push:
     branches:
-    - master
+      - main # <-- PENTING: Ganti jadi 'master' jika nama branch utamamu adalah master
     
-  
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # Langkah 1: Membuat file SVG animasi ular
+      # Menggunakan token PAT agar bisa mengakses data kontribusi dari repo privat
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
+        env:
+          # Menggunakan secret yang sudah kita buat di Settings Repository
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
+          # Mengambil username secara otomatis dari nama repository
           github_user_name: ${{ github.repository_owner }}
+          # Daftar file output yang akan dibuat
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+
+      # Langkah 2: Mendorong (push) file SVG yang sudah jadi ke branch 'output'
+      # Menggunakan GITHUB_TOKEN bawaan yang sudah punya izin push (setelah kita perbaiki di Settings)
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
