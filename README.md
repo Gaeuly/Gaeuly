@@ -62,26 +62,3 @@
     <a href="https://supabase.io/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
   </p>
 </details>
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <a href="https://github.com/Gaeuly">
-    <img src="https://<URL_VERCEL_KAMU>/api?username=Gaeuly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Gaeuly's GitHub stats" />
-  </a>
-  <a href="https://github.com/Gaeuly">
-    <img src="https://<URL_VERCEL_KAMU>/api/top-langs/?username=Gaeuly&layout=compact&theme=tokyonight&hide_border=true" alt="Gaeuly's Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Gaeuly">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaeuly&theme=tokyonight&hide_border=true" alt="Gaeuly's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaeuly&bg_color=1a1b27&color=79ff97&line=79ff97&point=c792ea&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
