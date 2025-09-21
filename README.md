@@ -62,3 +62,8 @@
     <a href="https://supabase.io/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
   </p>
 </details>
+
+### Watch my contribution graph get eaten by the snake :snake:
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/Gaeuly/Gaeuly/blob/output/github-snake.svg)
