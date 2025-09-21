@@ -66,4 +66,4 @@
 ### Watch my contribution graph get eaten by the snake :snake:
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/Gaeuly/Gaeuly/blob/output/github-snake.svg)
+![gaeuly snake gif](https://github.com/Gaeuly/Gaeuly/blob/output/github-snake.svg)
