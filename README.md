@@ -28,7 +28,6 @@
 
 > I'm a developer focused on crafting automated systems and building unique gameplay experiences. My journey involves diving deep into JavaScript, Node.js, and the Discord API to create powerful bots, while also exploring the world of Minecraft server development. Currently expanding my skills into backend optimization and mobile development with React Native.
 
-- 📫 Contact: **Join [Discord Server](https://discord.gg/FnEe7xcYZQ)**
 ---
 
 ### 🛠️ My Tech Stack
