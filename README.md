@@ -1,13 +1,11 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I5OWd0dHVsdHU2cGJ0aWd1aWx2cXZ5eXN5dDY4eTY2aTlycDl2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5y/giphy.gif" width="250" />
-
   <h1>
     Hi 👋, I'm Gaeuly
   </h1>
 
   <h3>
-    A passionate Discord bot developer and Minecraft server builder from Indonesia.
+    A passionate Discord bot developer , Minecraft server builder , Fullstack Developer.
   </h3>
 
   <p align="center">
@@ -30,11 +28,7 @@
 
 > I'm a developer focused on crafting automated systems and building unique gameplay experiences. My journey involves diving deep into JavaScript, Node.js, and the Discord API to create powerful bots, while also exploring the world of Minecraft server development. Currently expanding my skills into backend optimization and mobile development with React Native.
 
-- 💬 Tanya saya tentang: **JavaScript, Node.js, Discord.js, Minecraft Servers**
-- 🌱 Saya sedang belajar: **Backend Optimization, React Native**
-- 📫 Hubungi saya: **Join [Discord Server](https://discord.gg/FnEe7xcYZQ) saya**
-- ⚡ Fakta unik: Suka mengotomatisasi hal-hal yang membosankan.
-
+- 📫 Contact: **Join [Discord Server](https://discord.gg/FnEe7xcYZQ)**
 ---
 
 ### 🛠️ My Tech Stack
@@ -91,7 +85,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaeuly&bg_color=1a1b27&color=79ff97&line=79ff97&point=c792ea&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
----
-
-### ✍️ Recent Activity
