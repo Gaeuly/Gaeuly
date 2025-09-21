@@ -62,7 +62,6 @@
   </p>
 </details>
 
-### Watch my contribution graph get eaten by the snake :snake:
+### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![gaeuly snake gif](https://github.com/Gaeuly/Gaeuly/blob/output/github-snake.svg)
+![Gaeuly's Snake Animation](https://github.com/Gaeuly/Gaeuly/blob/output/github-contribution-grid-snake.svg)
