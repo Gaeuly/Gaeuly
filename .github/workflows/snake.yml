@@ -1,0 +1,35 @@
+# Nama workflow yang akan muncul di tab "Actions"
+name: Generate Snake Animation
+
+# Kapan workflow ini akan berjalan
+on:
+  schedule:
+    # Berjalan setiap 12 jam
+    - cron: "0 */6 * * *"
+  # Juga bisa dijalankan manual dari tab Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          # Ganti "Gaeuly" dengan username GitHub-mu jika berbeda
+          github_user_name: Gaeuly
+          
+          # Daftar output yang akan dibuat
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.svg?palette=ocean
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # Direktori yang berisi file hasil generate
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
