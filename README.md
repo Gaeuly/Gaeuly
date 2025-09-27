@@ -2,4 +2,4 @@
 
 <div align="center">
 
-![Self Describing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=Flutter+App+Developer;MERN+Stack+Developer;Arduino+Developer;Tech+Enthusiast)
+![Self Describing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=Discord+Developer;Full+Stack+Developer;Minecraft+Developer;Tech+Hacking)
