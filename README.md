@@ -49,7 +49,7 @@
 
 <div align="center">
 
-| ![Stats Graph](https://github-readme-stats.vercel.app/api?username=Gaeuly&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github) | ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Gaeuly&layout=donut&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true) |
+| ![Stats Graph](https://gaeuly.github.io/github-readme-stats/api?username=Gaeuly&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github) | ![Languages Graph](https://gaeuly.github.io/github-readme-stats/api/top-langs?username=Gaeuly&layout=donut&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true) |
 |---|---|
 
 </div>
