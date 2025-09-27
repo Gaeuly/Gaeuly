@@ -49,7 +49,7 @@
 
 <div align="center">
 
-| ![Stats Graph](https://gaeuly.github.io/github-readme-stats/api?username=Gaeuly&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github) | ![Languages Graph](https://gaeuly.github.io/github-readme-stats/api/top-langs?username=Gaeuly&layout=donut&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true) |
+| ![Stats Graph](https://github-readme-stats.vercel.app/api?username=Gaeuly&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github) | ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=Gaeuly&layout=donut&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true) |
 |---|---|
 
 </div>
@@ -57,6 +57,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaeuly&theme=midnight-purple&hide_border=true" />
 </p>
+
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/)
