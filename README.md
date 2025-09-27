@@ -10,7 +10,7 @@
 [<img src="https://img.shields.io/badge/Gmail%20-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:7gaeuly@gmail.com)
 <p align="center">
   <a href="https://discord.gg/vegmwmZt8G" target="_blank">
-    <img align="center" src="https://dcbadge.limes.pink/api/server/https://discord.gg/ydDk9xe" alt="Moonveil's Discord Server" />
+    <img align="center" src="https://dcbadge.limes.pink/api/server/https://discord.gg/vegmwmZt8G" alt="Moonveil's Discord Server" />
   </a>
 </p>
 </div>
