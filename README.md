@@ -43,6 +43,10 @@
 
 ## 📊 My GitHub Stats
 
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Gaeuly&theme=onedark" />
+</p>
+
 ![Stats Graph](https://github-readme-stats.vercel.app/api?username=Gaeuly&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github)<br/>
 
 ![Streak Graph](https://github-readme-streak-stats.herokuapp.com?user=Gaeuly&theme=midnight-purple&hide_border=true)<br/>
