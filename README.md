@@ -14,3 +14,9 @@
   </a>
 </p>
 </div>
+
+<p align="center">
+  <a href="https://discord.gg/vegmwmZt8G" target="_blank">
+    <img align="center" src="https://lanyard.cnrad.dev/api/500293365494054932?theme=dark&idleMessage=I'm%20working%20on%20something%20important%20and%20secret!" />
+  </a>
+</p>
