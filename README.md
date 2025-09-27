@@ -44,8 +44,7 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gaeuly&no-frame=true&margin-w=15&margin-h=15
-  &title=9B30FF&text=CCCCCC&bg_color=000000,4B0082,8A2BE2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaeuly&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ![Stats Graph](https://github-readme-stats.vercel.app/api?username=Gaeuly&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github)<br/>
