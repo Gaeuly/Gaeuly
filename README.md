@@ -8,4 +8,9 @@
 [<img src="https://img.shields.io/badge/Portfolio%20-%235237ED.svg?&style=for-the-badge&logo=googlechrome&logoColor=white"/>](https://gaeuly.netlify.app/)
 [<img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@GaeuIy)
 [<img src="https://img.shields.io/badge/Gmail%20-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:7gaeuly@gmail.com)
+<p align="center">
+  <a href="https://discord.gg/ydDk9xe" target="_blank">
+    <img align="center" src="https://dcbadge.limes.pink/api/server/https://discord.gg/ydDk9xe" alt="MasterkinG32's Discord Server" />
+  </a>
+</p>
 </div>
