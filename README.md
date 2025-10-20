@@ -1,9 +1,9 @@
+<h1 align="center">Hey There <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="36" />, I'm Gaeuly</h1>
+
 <a href="https://github.com/sponsors/Gaeuly">
-  <img src="https://img.shields.io/badge/Sponsor-Support%20my%20work-brightgreen?logo=GitHub" alt="Sponsor Gaeuly on GitHub">
+  <img src="https://img.shields.io/badge/Sponsor-Gaeuly-pink?style=plastic&logo=githubsponsors&logoColor=white" alt="Sponsor Gaeuly on GitHub">
 </a>
 
-
-<h1 align="center">Hey There <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="36" />, I'm Gaeuly</h1>
 
 <div align="center">
 
