@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Self Describing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=Discord+Developer;Full+Stack+Developer;Minecraft+Developer;Tech+Hacking)
+![Self Describing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=Discord+Developer;Full+Stack+Developer;Minecraft+Developer;Freelance)
 
 <a href="https://github.com/sponsors/Gaeuly">
   <img src="https://img.shields.io/badge/Sponsor%20-%23EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Gaeuly on GitHub"/>
