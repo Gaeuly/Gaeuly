@@ -26,19 +26,6 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-
-<img align="right" height="175" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-<div align="left">
-
-- 🎓 Passionate developer with a focus on **full-stack web apps**, **Discord bots**, and **Minecraft plugins**  
-- 🌱 Always exploring new technologies — currently diving into **System Design** & **Cloud Deployment**  
-- ⚡ Love building tools that make communities and projects more interactive & fun  
-- 💬 Feel free to reach out about **Web Dev, Game Servers, or Automation Projects**  
-- 🚀 Believer in learning by doing and sharing knowledge with others  
-
-</div>
 
 ## 💻 Tech Stack  
 
